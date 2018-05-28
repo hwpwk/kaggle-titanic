@@ -1,2 +1,3 @@
 # kaggle
-  titanicのコード
+  titanicのコード置き場
+ 
